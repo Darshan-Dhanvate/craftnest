@@ -4,13 +4,13 @@
 Craftnest is an online marketplace designed to empower local artisans by providing a digital space to showcase, sell, and manage their handcrafted products. The platform connects artisans with buyers, ensuring secure transactions, seamless shopping experiences, and community-driven engagement.
 
 🚀 Features
--✔️ User Authentication & Authorization (Signup/Login)
--✔️ Product Listings – Artisans can add, edit, and manage products
--✔️ Secure Payments via multiple gateways (UPI, Cards, PayPal, etc.)
--✔️ Order Management – Buyers can track orders & artisans can update statuses
--✔️ Review & Ratings – Buyers can provide feedback on purchases
--✔️ Admin Panel for user verification, dispute resolution & analytics
--✔️ Mobile-Friendly & Multilingual Support
+✔️ User Authentication & Authorization (Signup/Login)
+✔️ Product Listings – Artisans can add, edit, and manage products
+✔️ Secure Payments via multiple gateways (UPI, Cards, PayPal, etc.)
+✔️ Order Management – Buyers can track orders & artisans can update statuses
+✔️ Review & Ratings – Buyers can provide feedback on purchases
+✔️ Admin Panel for user verification, dispute resolution & analytics
+✔️ Mobile-Friendly & Multilingual Support
 
 📂 Repository Structure
 /craftnest
