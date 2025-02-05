@@ -1,5 +1,4 @@
-# craftnest
-# 🛍️ Craftnest - Online Marketplace for Local Artisans
+# 🛍️ craftnest - Online Marketplace for Local Artisans
 
 ## 📌 About Craftnest
 Craftnest is an online marketplace designed to empower local artisans by providing a digital space to showcase, sell, and manage their handcrafted products. The platform connects artisans with buyers, ensuring secure transactions, seamless shopping experiences, and community-driven engagement.
