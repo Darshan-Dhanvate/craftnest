@@ -15,13 +15,16 @@ Craftnest is an online marketplace designed to empower local artisans by providi
 ## 📂 Repository Structure
 ```
 /craftnest
-│── /src       # Source code for frontend & backend
-│── /docs      # Documentation & guidelines
-│── /tests     # Test cases & automation scripts
-│── /designs   # UI/UX designs & wireframes
-│── README.md  # Project overview & setup guide
-│── .gitignore # Ignored files (logs, dependencies, etc.)
-│── LICENSE    # Open-source license (if applicable)
+│── /src                          # Source code for frontend & backend
+│── /docs                         # Documentation & guidelines
+│── /tests                        # Test cases & automation scripts
+│── /designs                      # UI/UX designs & wireframes
+│── /.github                       # GitHub-specific configurations (CI/CD, issue templates, etc.)
+│── README.md                     # Project overview & setup guide
+│── RISK_REGISTER.md               # Risk management documentation
+│── Configuration_audit_result.md  # Configuration audit results
+│── .gitignore                     # Ignored files (logs, dependencies, etc.)
+│── LICENSE                        # Open-source license (if applicable)
 ```
 
 ## 🛠️ Tech Stack
